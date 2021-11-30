@@ -1,0 +1,7 @@
+G:\facultad\4 año\2 cuatrimestre\TdD\ejemplo-reflection\2018.TD.DV\bin\Debug\2018.TD.DV.exe.config
+G:\facultad\4 año\2 cuatrimestre\TdD\ejemplo-reflection\2018.TD.DV\bin\Debug\2018.TD.DV.exe
+G:\facultad\4 año\2 cuatrimestre\TdD\ejemplo-reflection\2018.TD.DV\bin\Debug\2018.TD.DV.pdb
+G:\facultad\4 año\2 cuatrimestre\TdD\ejemplo-reflection\2018.TD.DV\obj\Debug\2018.TD.DV.csprojAssemblyReference.cache
+G:\facultad\4 año\2 cuatrimestre\TdD\ejemplo-reflection\2018.TD.DV\obj\Debug\2018.TD.DV.csproj.CoreCompileInputs.cache
+G:\facultad\4 año\2 cuatrimestre\TdD\ejemplo-reflection\2018.TD.DV\obj\Debug\2018.TD.DV.exe
+G:\facultad\4 año\2 cuatrimestre\TdD\ejemplo-reflection\2018.TD.DV\obj\Debug\2018.TD.DV.pdb
